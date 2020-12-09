@@ -11,11 +11,20 @@ import Header from './shared/components/Header.vue'
 export default {
   name: 'App',
   components: {
-    Header
+    Header,
   }
 }
 </script>
 
-<style>
-
+<style scoped>
+  .footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+  }
+  #app {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+  }
 </style>

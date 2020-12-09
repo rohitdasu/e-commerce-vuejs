@@ -1,0 +1,142 @@
+[   
+    {
+        "id": 1,
+        "img": "men1.png",
+        "price": 499,
+        "rating": 4,
+        "brand": "Killer"
+      },
+      {
+        "id": 2,
+        "img": "men2.png",
+        "price": 399,
+        "rating": 3,
+        "brand": "Peter-England"
+      },
+      {
+        "id": 3,
+        "img": "men3.png",
+        "price": 799,
+        "rating": 4,
+        "brand": "Highlander"
+      },
+      {
+        "id": 4,
+        "img": "men4.png",
+        "price": 459,
+        "rating": 4,
+        "brand": "Adidas"
+      },
+      {
+        "id": 5,
+        "img": "men5.png",
+        "price": 450,
+        "rating": 3,
+        "brand": "Roadster"
+      },
+      {
+        "id": 6,
+        "img": "men6.png",
+        "price": 699,
+        "rating": 2,
+        "brand": "U.S Polo"
+      },
+      {
+        "id": 7,
+        "img": "men7.png",
+        "price": 1299,
+        "rating": 3,
+        "brand": "Wrogn"
+      },
+      {
+        "id": 8,
+        "img": "men8.png",
+        "price": 1499,
+        "rating": 5,
+        "brand": "Arrow"
+      },
+      {
+        "id": 9,
+        "img": "men9.png",
+        "price": 499,
+        "rating": 4,
+        "brand": "Blackberry"
+      },
+      {
+        "id": 10,
+        "img": "men10.png",
+        "price": 499,
+        "rating": 4,
+        "brand": "Raymond"
+      },
+      {
+        "id": 11,
+        "img": "men11.png",
+        "price": 799,
+        "rating": 4,
+        "brand": "Invictus"
+      },
+      {
+        "id": 12,
+        "img": "men12.png",
+        "price": 399,
+        "rating": 4,
+        "brand": "RR"
+      },
+      {
+        "id": 13,
+        "img": "men13.png",
+        "price": 399,
+        "rating": 4,
+        "brand": "Jack & Jones"
+      },
+      {
+        "id": 14,
+        "img": "men1.png",
+        "price": 499,
+        "rating": 4,
+        "brand": "Levi's"
+      },
+      {
+        "id": 15,
+        "img": "men2.png",
+        "price": 399,
+        "rating": 3,
+        "brand": "T&M"
+      },
+      {
+        "id": 16,
+        "img": "men1.png",
+        "price": 499,
+        "rating": 4,
+        "brand": "Killer"
+      },
+      {
+        "id": 17,
+        "img": "men2.png",
+        "price": 399,
+        "rating": 3,
+        "brand": "Peter-England"
+      },
+      {
+        "id": 18,
+        "img": "men3.png",
+        "price": 799,
+        "rating": 4,
+        "brand": "Highlander"
+      },
+      {
+        "id": 19,
+        "img": "men4.png",
+        "price": 459,
+        "rating": 4,
+        "brand": "Adidas"
+      },
+      {
+        "id": 20,
+        "img": "men5.png",
+        "price": 450,
+        "rating": 3,
+        "brand": "Roadster"
+      }
+]
