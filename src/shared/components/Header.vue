@@ -27,6 +27,7 @@
                 }
                 else{
                     this.$store.commit('SET_AUTH',!x);
+                    this.$router.push('/');
                 }
             }
         }
