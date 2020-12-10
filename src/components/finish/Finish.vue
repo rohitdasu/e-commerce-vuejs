@@ -10,6 +10,7 @@
 export default {
     created() {
         this.$store.commit('CLEAR_CART_DATA');
+        this.$store.commit('SET_ROUTE_ORDER',false);
     }
 }
 </script>
