@@ -18,7 +18,6 @@ const routes = [
     { path: '/login', name:'Login', component: login},
 
     { path: '/order', name:'Order', component: finish, beforeEnter: (to, from, next) => {
-        // ...
         if(to.name !== 'Login' && !store.state.isAuthenticated){
             next({name: 'Login'});
         }

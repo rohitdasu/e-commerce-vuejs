@@ -9,3 +9,7 @@ export const GET_DUMMY_DATA = state => {
 export const GET_CART_DATA = state => {
     return state.cartData;
 }
+
+export const GET_ROUTE_ORDER = state => {
+    return state.routeOrder;
+}

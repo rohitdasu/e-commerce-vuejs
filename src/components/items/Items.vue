@@ -19,7 +19,7 @@
             </div>
         </div>
         <md-snackbar :md-duration=3000 :md-active.sync="showSnackbar" md-persistent>
-            <span>Item Added To Cart</span>
+            <span class="h4">Added to cart</span>
         </md-snackbar>
     </div>
 </template>

@@ -7,7 +7,11 @@
 </template>
 
 <script>
-export default {}
+export default {
+    created() {
+        this.$store.commit('CLEAR_CART_DATA');
+    }
+}
 </script>
 <style lang="">
     

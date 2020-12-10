@@ -12,7 +12,8 @@ export const store = new Vuex.Store({
   state: {
     isAuthenticated:false,
     dummyData:data,
-    cartData:[]
+    cartData:[],
+    routeOrder:false
   },
   getters,
   mutations,
