@@ -9,7 +9,7 @@
                             <img :src="require(`../../assets/images/${x.img}`)">
                         </div>
                         <div class="md-title text-center mt-2">{{x.brand}}</div>
-                        <div class="md-subhead text-center mt-2">RS {{x.price}}</div>
+                        <div class="md-subhead text-center mt-2">&#8377; {{x.price}}.00</div>
                         </md-card-header>
                         <md-card-actions>
                         <md-button @click="addToCart(x)" class="md-accent">Add To Cart</md-button>
@@ -18,8 +18,8 @@
                 </md-card>
             </div>
         </div>
-        <md-snackbar :md-duration=3000 :md-active.sync="showSnackbar" md-persistent>
-            <span class="h4">Added to cart</span>
+        <md-snackbar :md-duration=2000 :md-active.sync="showSnackbar" md-persistent>
+            <span class="h6">Added to cart</span>
         </md-snackbar>
     </div>
 </template>
