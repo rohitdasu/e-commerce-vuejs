@@ -4,5 +4,9 @@ export const  state = {
         isAuthenticated:false,
         dummyData:data,
         cartData:[],
-        routeOrder:false
+        routeOrder:false,
+        userData : {
+                username: 'Rohit',
+                password: '12345678'
+        }
 }

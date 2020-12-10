@@ -13,3 +13,7 @@ export const GET_CART_DATA = state => {
 export const GET_ROUTE_ORDER = state => {
     return state.routeOrder;
 }
+
+export const USER = state => {
+    return state.userData;
+}
